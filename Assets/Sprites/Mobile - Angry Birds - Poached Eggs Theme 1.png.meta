@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: b20f379c84f1b614c8ee7d5a0227b22a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Poached Eggs Theme 1_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 266
+        width: 487
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb6a95d7d92b0745a6582d0f84a0bf6
+      internalID: 851794270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Poached Eggs Theme 1_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 258
+        width: 341
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68560d0caec62b468e73b5ea8ce1294
+      internalID: 2123473812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Poached Eggs Theme 1_5
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 255
+        width: 446
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e50efc6480dba64cb960d35c47037a6
+      internalID: -740119586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Poached Eggs Theme 1_6
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 257
+        width: 340
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb4cfb84b7ba33448fb535e5de37da9
+      internalID: 1369729134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Poached Eggs Theme 1_7
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 257
+        width: 332
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1253017a2c4f6c4f8c523ddff8e6403
+      internalID: 97289625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Poached Eggs Theme 1_8
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 259
+        width: 485
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4db7785cee8e84e94c2dcf0d15ce03
+      internalID: -2138173132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Poached Eggs Theme 1_9
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 260
+        width: 476
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b452c316089b0419562604ca519d9e
+      internalID: -1072242768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Poached Eggs Theme 1_10
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 257
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad657220ffba3ec479d838113a187d5f
+      internalID: -1916070875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Angry Birds - Poached Eggs Theme 1_0: -2093194217
+      Mobile - Angry Birds - Poached Eggs Theme 1_1: -134470412
+      Mobile - Angry Birds - Poached Eggs Theme 1_10: -1916070875
+      Mobile - Angry Birds - Poached Eggs Theme 1_11: 1538199303
+      Mobile - Angry Birds - Poached Eggs Theme 1_12: -1583480432
+      Mobile - Angry Birds - Poached Eggs Theme 1_13: 1418887905
+      Mobile - Angry Birds - Poached Eggs Theme 1_14: -121087517
+      Mobile - Angry Birds - Poached Eggs Theme 1_15: 778704809
+      Mobile - Angry Birds - Poached Eggs Theme 1_16: -2086731002
+      Mobile - Angry Birds - Poached Eggs Theme 1_17: -470586275
+      Mobile - Angry Birds - Poached Eggs Theme 1_18: -688347163
+      Mobile - Angry Birds - Poached Eggs Theme 1_19: -303890715
+      Mobile - Angry Birds - Poached Eggs Theme 1_2: -598811536
+      Mobile - Angry Birds - Poached Eggs Theme 1_20: 1734021454
+      Mobile - Angry Birds - Poached Eggs Theme 1_21: -1171978311
+      Mobile - Angry Birds - Poached Eggs Theme 1_22: 2097536818
+      Mobile - Angry Birds - Poached Eggs Theme 1_23: 1430712668
+      Mobile - Angry Birds - Poached Eggs Theme 1_24: 1447143770
+      Mobile - Angry Birds - Poached Eggs Theme 1_25: 1354337490
+      Mobile - Angry Birds - Poached Eggs Theme 1_3: 851794270
+      Mobile - Angry Birds - Poached Eggs Theme 1_4: 2123473812
+      Mobile - Angry Birds - Poached Eggs Theme 1_5: -740119586
+      Mobile - Angry Birds - Poached Eggs Theme 1_6: 1369729134
+      Mobile - Angry Birds - Poached Eggs Theme 1_7: 97289625
+      Mobile - Angry Birds - Poached Eggs Theme 1_8: -2138173132
+      Mobile - Angry Birds - Poached Eggs Theme 1_9: -1072242768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
