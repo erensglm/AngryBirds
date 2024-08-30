@@ -5,7 +5,8 @@ using UnityEngine;
 public class Baddie : MonoBehaviour
 {
     [SerializeField] private float _maxHealth = 3f;
-    [SerializeField] private float _damageThreshold = 0.2f; 
+    [SerializeField] private float _damageThreshold = 0.2f;
+    [SerializeField] private GameObject _baddieDeathParticle;
 
     private float _currentHealth;
 
@@ -29,6 +30,8 @@ public class Baddie : MonoBehaviour
     private void Die()
     {
         Destroy(gameObject);
+
+        Instantiate(_baddieDeathParticle, transform.position, Quaternion.identity);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
